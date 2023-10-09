@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  canvas {
+    filter: drop-shadow(5px 5px 2px rgba(0 0 0 0.4));
+  }
